@@ -1,0 +1,18 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
+- jekyll-readme-index
+- jekyll-gfm-admonitions
+- jemoji
+title: POSSREL   
+description:  A Data-Driven Generator of Design Possibility Distributions for Geotechnical Reliability Assessment
+show_downloads: true
+# google_analytics: G-T51PTWVNFD 
+github:
+  zip_url: https://raw.githubusercontent.com/AntroxEV/POSSREL/main/PACKAGES/POSSREL.mlappinstall
+  tar_url: https://raw.githubusercontent.com/AntroxEV/POSSREL/main/PACKAGES/MyAppInstaller_web.exe
+  repository_url: https://github.com/AntroxEV/POSSREL
+markdown: GFM
+repository: AntroxEV/POSSRELAPP
+author: Dr Alessandro Tombari
+
